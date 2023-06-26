@@ -10,4 +10,7 @@ After that, I use this code :
 Then I check in console anh this is the output I need 
 ![image](https://github.com/RyanPham19092002/Requirement2/assets/122810752/0ed8227d-2270-4b3d-b192-a4ce20c5d58c)
 
-So in file tool.py, I explain my idea to solve this problem
+In file tool.py, I explain clearly my idea to solve this problem
+
+This is link connect to my google drive to see my output folder which has 1000 images for each folder :
+https://drive.google.com/drive/folders/1nhDSMDTcaeBhQet-RgV4Lh9pBIllQPKy?usp=sharing
